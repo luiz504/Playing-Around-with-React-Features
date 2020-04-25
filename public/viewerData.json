@@ -1,0 +1,181 @@
+{
+  "colider": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/COLLISION2.FBX",
+  "navigation": {
+    "points": [
+      {
+        "_id": "1",
+        "hdr": {
+          "px": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene1/px.hdr",
+          "nx": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene1/nx.hdr",
+          "py": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene1/py.hdr",
+          "ny": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene1/ny.hdr",
+          "pz": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene1/pz.hdr",
+          "nz": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene1/nz.hdr"
+        },
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "_id": "2",
+        "hdr": {
+          "px": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene2/px.hdr",
+          "nx": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene2/nx.hdr",
+          "py": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene2/py.hdr",
+          "ny": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene2/ny.hdr",
+          "pz": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene2/pz.hdr",
+          "nz": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene2/nz.hdr"
+        },
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 650
+        }
+      },
+      {
+        "_id": "3",
+        "hdr": {
+          "px": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene3/px.hdr",
+          "nx": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene3/nx.hdr",
+          "py": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene3/py.hdr",
+          "ny": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene3/ny.hdr",
+          "pz": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene3/pz.hdr",
+          "nz": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene3/nz.hdr"
+        },
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 1180
+        }
+      },
+      {
+        "_id": "4",
+        "hdr": {
+          "px": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene4/px.hdr",
+          "nx": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene4/nx.hdr",
+          "py": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene4/py.hdr",
+          "ny": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene4/ny.hdr",
+          "pz": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene4/pz.hdr",
+          "nz": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene4/nz.hdr"
+        },
+        "position": {
+          "x": 270,
+          "y": 0,
+          "z": 1700
+        }
+      },
+      {
+        "_id": "5",
+        "hdr": {
+          "px": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene5/px.hdr",
+          "nx": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene5/nx.hdr",
+          "py": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene5/py.hdr",
+          "ny": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene5/ny.hdr",
+          "pz": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene5/pz.hdr",
+          "nz": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene5/nz.hdr"
+        },
+        "position": {
+          "x": 600,
+          "y": 0,
+          "z": 1080
+        }
+      },
+      {
+        "_id": "6",
+        "hdr": {
+          "px": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene6/px.hdr",
+          "nx": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene6/nx.hdr",
+          "py": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene6/py.hdr",
+          "ny": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene6/ny.hdr",
+          "pz": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene6/pz.hdr",
+          "nz": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene6/nz.hdr"
+        },
+        "position": {
+          "x": 1030,
+          "y": 0,
+          "z": 700
+        }
+      },
+      {
+        "_id": "7",
+        "hdr": {
+          "px": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene7/px.hdr",
+          "nx": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene7/nx.hdr",
+          "py": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene7/py.hdr",
+          "ny": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene7/ny.hdr",
+          "pz": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene7/pz.hdr",
+          "nz": "https://3d-threejs-viewer.s3.eu-central-1.amazonaws.com/assets/Scene7/nz.hdr"
+        },
+        "position": {
+          "x": 1130,
+          "y": 330,
+          "z": -240
+        }
+      }
+    ]
+  },
+  "points": [
+    {
+      "_id": "1",
+      "name": "Point 1",
+      "lineStartPosition": {
+        "x": -126.15,
+        "y": 100,
+        "z": 354
+      },
+      "markerPosition": {
+        "x": -20.15,
+        "y": 100,
+        "z": 354
+      },
+      "color": "#00FF00"
+    },
+    {
+      "_id": "2",
+      "name": "Point 2",
+      "lineStartPosition": {
+        "x": 96.20209650141851,
+        "y": -88.33551038683618,
+        "z": 179.1551411853368
+      },
+      "markerPosition": {
+        "x": 96.20209650141851,
+        "y": -58.33551038683618,
+        "z": 179.1551411853368
+      },
+      "color": "#FF0000"
+    },
+    {
+      "_id": "3",
+      "name": "Point 3",
+      "lineStartPosition": {
+        "x": 310.5717996948961,
+        "y": 106.09569537560401,
+        "z": 784.9653200034027
+      },
+      "markerPosition": {
+        "x": 250.5717996948961,
+        "y": 126.09569537560401,
+        "z": 784.9653200034027
+      },
+      "color": "#FFFF00"
+    },
+    {
+      "_id": "4",
+      "name": "Point 4",
+      "lineStartPosition": {
+        "x": 349.9608548221804,
+        "y": -122.19326676250569,
+        "z": 501.92332051038534
+      },
+      "markerPosition": {
+        "x": 349.9608548221804,
+        "y": -102.19326676250569,
+        "z": 501.92332051038534
+      },
+      "color": "#FF0000"
+    }
+  ]
+}
