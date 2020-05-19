@@ -1,8 +1,16 @@
 import React from 'react';
-import Viewer360 from './Viewer360';
+import { BrowserRouter } from 'react-router-dom';
+
+import Routes from './routes';
+import { GlobalStyle } from './styles/globals';
 
 function App() {
-  return <Viewer360 />;
+  return (
+    <BrowserRouter>
+      <Routes />
+      <GlobalStyle />
+    </BrowserRouter>
+  );
 }
 
 export default App;

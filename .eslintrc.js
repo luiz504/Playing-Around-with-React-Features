@@ -33,6 +33,7 @@ module.exports = {
     'no-underscore-dangle': 'off',
     'import/no-unresolved': 'off',
     'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
+    'no-console': 'off',
   },
   settings: {
     'import/resolver': {
